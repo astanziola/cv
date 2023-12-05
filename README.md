@@ -1,5 +1,7 @@
 # My CV
 
+- Published on [astanziola.github.io/cv-details](https://astanziola.github.io/cv-details)
+
 <hr />
 
 ### Original Template Author
